@@ -38,7 +38,7 @@ query_id=xxx or user=xxxx
 
 ```js
 {
-    "maxUpgradePrice": 550000
+    "maxUpgradePrice": 55000000000
 }
 ```
 
